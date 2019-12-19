@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Cognizant_Final_Project.iml" filepath="$PROJECT_DIR$/.idea/Cognizant_Final_Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka_server/eureka_server.iml" filepath="$PROJECT_DIR$/eureka_server/eureka_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/student-repository-edge-service/student-repository-edge-service.iml" filepath="$PROJECT_DIR$/student-repository-edge-service/student-repository-edge-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/student-repository-service/student-repository-service.iml" filepath="$PROJECT_DIR$/student-repository-service/student-repository-service.iml" />
+    </modules>
+  </component>
+</project>
